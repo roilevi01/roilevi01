@@ -1,7 +1,5 @@
-<h1>
-  Hi, I'm Roi Levi 👋
-  <img src="assets/" width="120"/>
-</h1>
+
+  <img src="assets/Abstract Technology Profile LinkedIn Banner.gif" width="120"/>
 
 
 # Hi, I'm Roi Levi 👋
