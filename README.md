@@ -1,3 +1,9 @@
+<h1>
+  Hi, I'm Roi Levi 👋
+  <img src="assets/" width="120"/>
+</h1>
+
+
 # Hi, I'm Roi Levi 👋
 
 Full-Stack & Systems-Oriented Engineer  
